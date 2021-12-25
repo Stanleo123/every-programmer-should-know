@@ -1,6 +1,7 @@
 ## The Goal
 Our goal is not to have the biggest list of stuff.
 Our goal is to have a **comprehensible** list of most valuable things any programmer should know about.
+Our goal is to obtain an up-to-date programming tips.
 
 ## Contributing
 
@@ -19,6 +20,7 @@ Your opinion on value of any resource may not match the opinion of curator.
 We :heart: simplicity.<br>
 We :heart: essential stuff.<br>
 We strive to have a smaller list of more valuable resources, quality over quantity.
+We also strive to have patience.
 </p></details>
 
 <details><summary>We :heart: widely applicable knowledge/skills. </summary><p>
